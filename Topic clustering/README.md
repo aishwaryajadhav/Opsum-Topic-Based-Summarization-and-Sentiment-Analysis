@@ -1,3 +1,3 @@
-# Topic clustering Architecture
+# Topic Clustering Architecture
 
 ![Architecture](Work_flow.png)
